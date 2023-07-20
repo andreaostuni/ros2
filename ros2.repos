@@ -65,7 +65,7 @@ repositories:
     version: humble
   ros-perception/image_common:
     type: git
-    url: https://github.com/ros-perception/image_common.git
+    url: https://github.com/andreaostuni/image_common.git
     version: humble
   ros-perception/laser_geometry:
     type: git
@@ -221,7 +221,7 @@ repositories:
     version: humble
   ros2/geometry2:
     type: git
-    url: https://github.com/ros2/geometry2.git
+    url: https://github.com/giafranchini/geometry2.git
     version: humble
   ros2/launch:
     type: git
@@ -237,8 +237,8 @@ repositories:
     version: humble
   ros2/message_filters:
     type: git
-    url: https://github.com/ros2/message_filters.git
-    version: humble
+    url: https://github.com/Fixit-Davide/message_filters.git
+    version: TypeAdapter
   ros2/mimick_vendor:
     type: git
     url: https://github.com/ros2/mimick_vendor.git
@@ -273,7 +273,7 @@ repositories:
     version: humble
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
+    url: https://github.com/giafranchini/rclcpp.git
     version: humble
   ros2/rclpy:
     type: git

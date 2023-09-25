@@ -1,0 +1,9 @@
+repositories:
+  locusrobotics/tf2_2d:
+    type: git
+    url: https://github.com/locusrobotics/tf2_2d.git
+    version: rolling
+  ros/diagnostics:
+    type: git
+    url: https://github.com/ros/diagnostics.git
+    version: ros2
